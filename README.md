@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # Coursera deeplearning.ai 
-=======
-Coursera deeplearning.ai 
->>>>>>> 3b32af6d3c6e6574bb436112cb74c051a7fc094a
+
 
 ##  Neural Networks and Deep Learning
 
@@ -50,13 +48,13 @@ Coursera deeplearning.ai
 
 #### week 2
 
-<<<<<<< HEAD
 [ResNets](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week2/ResNets/Residual%20Networks%20-%20v2.ipynb)
 
-=======
->>>>>>> 3b32af6d3c6e6574bb436112cb74c051a7fc094a
 #### week 3
+
+[[Car detection for Autonomous Driving](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
 
 ### week 4
 
+[Neural Style Transfer](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
 
