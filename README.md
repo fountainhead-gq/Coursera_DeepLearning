@@ -52,7 +52,7 @@
 
 #### week 3
 
-[[Car detection for Autonomous Driving](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
+[Car detection for Autonomous Driving](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
 
 ### week 4
 
