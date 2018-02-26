@@ -58,3 +58,6 @@
 
 [Neural Style Transfer](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
 
+[Face Recognition](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
+
+[Neural Style Transfer](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
