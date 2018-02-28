@@ -10,7 +10,7 @@
 We index into the $i^{th}$ row first to get the $i^{th}$ training example (represented by parentheses), then the $j^{th}$ column to get the $j^{th}$ word (represented by the brackets).
 
 2. Consider this RNN:
-  ![](/images/rnn2.png)
+  ![](images/rnn2.png)
   This specific type of architecture is appropriate when:
 - [x] $T_x = T_y$
 - [ ] $T_x < T_y$
@@ -20,7 +20,7 @@ We index into the $i^{th}$ row first to get the $i^{th}$ training example (repre
 It is appropriate when every input should be matched to an output.
 
 3. To which of these tasks would you apply a many-to-one RNN architecture? (Check all that apply).
-  ![](/images/rnn3.png)
+  ![](images/rnn3.png)
 
 - [ ] peech recognition (input an audio clip and output a transcript)
 - [x] Sentiment classification (input a piece of text and output a 0/1 to denote positive or negative sentiment)
@@ -28,7 +28,7 @@ It is appropriate when every input should be matched to an output.
 - [x] Gender recognition from speech (input an audio clip and output a label indicating the speaker’s gender)
 
 4. You are training this RNN language model.
-  ![](/images/rnn4.png)
+  ![](images/rnn4.png)
   At the $t^{th}$ time step, what is the RNN doing? Choose the best answer.
 
 - [ ] Estimating $P(y^{<1>}, y^{<2>}, …, y^{<t-1>})$
@@ -39,7 +39,7 @@ It is appropriate when every input should be matched to an output.
  Yes,in a language model we try to predict the next step based on the knowledge of all prior steps.
 
 5. You have finished training a language model RNN and are using it to sample random sentences, as follows:
-  ![](/images/rnn5.png)
+  ![](images/rnn5.png)
   What are you doing at each time step t?
 
  - [ ] (i) Use the probabilities output by the RNN to pick the highest probability word for that time-step as $\hat{y}^{<t>}$. (ii) Then pass the ground-truth word from the training set to the next time-step.
@@ -63,7 +63,7 @@ It is appropriate when every input should be matched to an output.
 Correct, $\Gamma_u$ is a vector of dimension equal to the number of hidden units in the LSTM.
 
 8. Here’re the update equations for the GRU.
-  ![](/images/rnn8.png)
+  ![](images/rnn8.png)
   Alice proposes to simplify the GRU by always removing the $\Gamma_u$. I.e., setting $\Gamma_u$ = 1. Betty proposes to simplify the GRU by removing the $\Gamma_r$. I. e., setting $\Gamma_r$ = 1 always. Which of these models is more likely to work without vanishing gradient problems even when trained on very long input sequences?
 
 - [ ] Alice’s model (removing $\Gamma_u$), because if $\Gamma_r$≈0 for a timestep, the gradient can propagate back through that timestep without much decay.
@@ -74,7 +74,7 @@ Correct, $\Gamma_u$ is a vector of dimension equal to the number of hidden units
 Yes, For the signal to backpropagate without vanishing, we need $c^{<t>}$ to be highly dependant on $c^{<t-1>}$
 
 9. Here are the equations for the GRU and the LSTM:
-  ![](/images/rnn9.png)
+  ![](images/rnn9.png)
   From these, we can see that the Update Gate and Forget Gate in the LSTM play a role similar to _______ and ______ in the GRU. What should go in the the blanks?
 
 - [x] $\Gamma_u$ and 1−$\Gamma_u$
@@ -82,8 +82,7 @@ Yes, For the signal to backpropagate without vanishing, we need $c^{<t>}$ to be 
 - [ ] 1−$\Gamma_u$ and $\Gamma_u$
 - [ ] $\Gamma_r$ and $\Gamma_u$
 
-10. 
-  You have a pet dog whose mood is heavily dependent on the current and past few days’ weather. You’ve collected data for the past 365 days on the weather, which you represent as a sequence as $x^{<1>}, …, x^{<365>}$. You’ve also collected data on your dog’s mood, which you represent as $y^{<1>}, …, y^{<365>}$. You’d like to build a model to map from x→y. Should you use a Unidirectional RNN or Bidirectional RNN for this problem?
+10. You have a pet dog whose mood is heavily dependent on the current and past few days’ weather. You’ve collected data for the past 365 days on the weather, which you represent as a sequence as $x^{<1>}, …, x^{<365>}$. You’ve also collected data on your dog’s mood, which you represent as $y^{<1>}, …, y^{<365>}$. You’d like to build a model to map from x→y. Should you use a Unidirectional RNN or Bidirectional RNN for this problem?
 
 - [ ] Bidirectional RNN, because this allows the prediction of mood on day t to take into account more information.
 - [ ] Bidirectional RNN, because this allows backpropagation to compute more accurate gradients.
