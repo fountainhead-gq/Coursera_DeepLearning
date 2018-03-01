@@ -54,10 +54,20 @@
 
 [Car detection for Autonomous Driving](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
 
-### week 4
+#### week 4
 
 [Neural Style Transfer](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
 
 [Face Recognition](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 
 [Neural Style Transfer](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+
+
+## Sequence Models
+
+#### week 1
+[Building a Recurrent Neural Network ](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)
+
+[Dinosaur Island ](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+
+[Jazz improvisation with LSTM](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week1/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
