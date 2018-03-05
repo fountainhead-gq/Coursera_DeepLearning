@@ -6,7 +6,7 @@
 
 True
 
-**False **
+**False**
 
 The dimension of word vectors is usually smaller than the size of the vocabulary. Most common sizes for word vectors ranges between 50 and 400.
 
