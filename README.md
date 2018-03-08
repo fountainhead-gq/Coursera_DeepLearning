@@ -71,3 +71,17 @@
 [Dinosaur Island ](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
 
 [Jazz improvisation with LSTM](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week1/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+
+
+
+#### week 2
+
+[Emojify](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week2/Emojify/Emojify%20-%20v2.ipynb)
+
+[Operations on word vectors](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week2/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
+
+#### week 3
+
+[Neural machine translation with attention](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week3/Neural%20Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v3.ipynb)
+
+[Trigger word detection ](https://github.com/fountainhead-gq/Coursera_DeepLearning/blob/master/Sequence%20Models/week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
